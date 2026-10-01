@@ -1,0 +1,8 @@
+.tarjeta {
+  background-color: var(--color-superficie);
+  color: var(--color-texto);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
